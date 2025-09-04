@@ -126,7 +126,7 @@ If you get this error code, you'll need to uninstall and [reinstall](/download/)
 
 ### Unofficial and modified versions of Windows
 
-This includes but is not limited to AtlasOS, ReviOS, disabling Windows update, removing the Microsoft store. Files is not officially supported on devices with these modifications.
+Unofficial or modified versions of Windows are not support. This includes using AtlasOS, ReviOS, disabling Windows updates, removing the Microsoft Store, errors when installing like Class not registered, The text associated with this error could not be found or A Prerequisite for install could not be satisfied. Files might be able to install if you follow the below.
 
 1. Type Services in Windows start menu
 2. Open the `Windows update` and `Delivery optimization` services properties (Double click)
